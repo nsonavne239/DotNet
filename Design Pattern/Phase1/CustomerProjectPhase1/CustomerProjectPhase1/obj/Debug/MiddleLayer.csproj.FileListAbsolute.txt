@@ -1,7 +1,0 @@
-E:\Questpond\Code 2013\Design Pattern\Phase1\CustomerProjectPhase1\CustomerProjectPhase1\bin\Debug\CustomerProjectPhase1.dll
-E:\Questpond\Code 2013\Design Pattern\Phase1\CustomerProjectPhase1\CustomerProjectPhase1\bin\Debug\CustomerProjectPhase1.pdb
-E:\Questpond\Code 2013\Design Pattern\Phase1\CustomerProjectPhase1\CustomerProjectPhase1\obj\Debug\CustomerProjectPhase1.dll
-E:\Questpond\Code 2013\Design Pattern\Phase1\CustomerProjectPhase1\CustomerProjectPhase1\obj\Debug\CustomerProjectPhase1.pdb
-E:\Questpond\Code 2013\Design Pattern\Phase1\CustomerProjectPhase1\CustomerProjectPhase1\obj\Debug\MiddleLayer.csprojResolveAssemblyReference.cache
-E:\Questpond\Code 2013\Design Pattern\Phase1\CustomerProjectPhase1\CustomerProjectPhase1\bin\Debug\InterfaceCustomer.dll
-E:\Questpond\Code 2013\Design Pattern\Phase1\CustomerProjectPhase1\CustomerProjectPhase1\bin\Debug\InterfaceCustomer.pdb
